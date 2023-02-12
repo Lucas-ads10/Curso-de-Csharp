@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Atividade2, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Atividade2 -> D:\Documentos\Projetos C#\Atividade2\Atividade2\bin\Debug\net7.0\Atividade2.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:00,763 ==========
