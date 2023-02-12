@@ -1,0 +1,15 @@
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\obj\Debug\net7.0\CalculosDeAreas.csproj.AssemblyReference.cache
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\obj\Debug\net7.0\CalculosDeAreas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\obj\Debug\net7.0\CalculosDeAreas.AssemblyInfoInputs.cache
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\obj\Debug\net7.0\CalculosDeAreas.AssemblyInfo.cs
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\obj\Debug\net7.0\CalculosDeAreas.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\bin\Debug\net7.0\CalculosDeAreas.exe
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\bin\Debug\net7.0\CalculosDeAreas.deps.json
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\bin\Debug\net7.0\CalculosDeAreas.runtimeconfig.json
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\bin\Debug\net7.0\CalculosDeAreas.dll
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\bin\Debug\net7.0\CalculosDeAreas.pdb
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\obj\Debug\net7.0\CalculosDeAreas.dll
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\obj\Debug\net7.0\refint\CalculosDeAreas.dll
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\obj\Debug\net7.0\CalculosDeAreas.pdb
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\obj\Debug\net7.0\CalculosDeAreas.genruntimeconfig.cache
+D:\Documentos\Projetos C#\CalculosDeAreas\CalculosDeAreas\obj\Debug\net7.0\ref\CalculosDeAreas.dll
