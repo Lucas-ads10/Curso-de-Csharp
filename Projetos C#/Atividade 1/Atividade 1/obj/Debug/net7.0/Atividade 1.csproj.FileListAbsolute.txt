@@ -1,0 +1,15 @@
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\obj\Debug\net7.0\Atividade 1.csproj.AssemblyReference.cache
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\obj\Debug\net7.0\Atividade 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\obj\Debug\net7.0\Atividade 1.AssemblyInfoInputs.cache
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\obj\Debug\net7.0\Atividade 1.AssemblyInfo.cs
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\obj\Debug\net7.0\Atividade 1.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\bin\Debug\net7.0\Atividade 1.exe
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\bin\Debug\net7.0\Atividade 1.deps.json
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\bin\Debug\net7.0\Atividade 1.runtimeconfig.json
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\bin\Debug\net7.0\Atividade 1.dll
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\bin\Debug\net7.0\Atividade 1.pdb
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\obj\Debug\net7.0\Atividade 1.dll
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\obj\Debug\net7.0\refint\Atividade 1.dll
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\obj\Debug\net7.0\Atividade 1.pdb
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\obj\Debug\net7.0\Atividade 1.genruntimeconfig.cache
+D:\Documentos\Projetos C#\Atividade 1\Atividade 1\obj\Debug\net7.0\ref\Atividade 1.dll

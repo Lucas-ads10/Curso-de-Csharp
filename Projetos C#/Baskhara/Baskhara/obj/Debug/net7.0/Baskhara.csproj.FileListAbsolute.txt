@@ -1,0 +1,15 @@
+D:\Documentos\Projetos C#\Baskhara\Baskhara\bin\Debug\net7.0\Baskhara.exe
+D:\Documentos\Projetos C#\Baskhara\Baskhara\bin\Debug\net7.0\Baskhara.deps.json
+D:\Documentos\Projetos C#\Baskhara\Baskhara\bin\Debug\net7.0\Baskhara.runtimeconfig.json
+D:\Documentos\Projetos C#\Baskhara\Baskhara\bin\Debug\net7.0\Baskhara.dll
+D:\Documentos\Projetos C#\Baskhara\Baskhara\bin\Debug\net7.0\Baskhara.pdb
+D:\Documentos\Projetos C#\Baskhara\Baskhara\obj\Debug\net7.0\Baskhara.csproj.AssemblyReference.cache
+D:\Documentos\Projetos C#\Baskhara\Baskhara\obj\Debug\net7.0\Baskhara.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos C#\Baskhara\Baskhara\obj\Debug\net7.0\Baskhara.AssemblyInfoInputs.cache
+D:\Documentos\Projetos C#\Baskhara\Baskhara\obj\Debug\net7.0\Baskhara.AssemblyInfo.cs
+D:\Documentos\Projetos C#\Baskhara\Baskhara\obj\Debug\net7.0\Baskhara.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos C#\Baskhara\Baskhara\obj\Debug\net7.0\Baskhara.dll
+D:\Documentos\Projetos C#\Baskhara\Baskhara\obj\Debug\net7.0\refint\Baskhara.dll
+D:\Documentos\Projetos C#\Baskhara\Baskhara\obj\Debug\net7.0\Baskhara.pdb
+D:\Documentos\Projetos C#\Baskhara\Baskhara\obj\Debug\net7.0\Baskhara.genruntimeconfig.cache
+D:\Documentos\Projetos C#\Baskhara\Baskhara\obj\Debug\net7.0\ref\Baskhara.dll

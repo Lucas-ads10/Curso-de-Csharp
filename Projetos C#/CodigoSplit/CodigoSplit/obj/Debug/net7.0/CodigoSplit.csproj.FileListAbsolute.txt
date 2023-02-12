@@ -1,0 +1,15 @@
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\obj\Debug\net7.0\CodigoSplit.csproj.AssemblyReference.cache
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\obj\Debug\net7.0\CodigoSplit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\obj\Debug\net7.0\CodigoSplit.AssemblyInfoInputs.cache
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\obj\Debug\net7.0\CodigoSplit.AssemblyInfo.cs
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\obj\Debug\net7.0\CodigoSplit.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\bin\Debug\net7.0\CodigoSplit.exe
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\bin\Debug\net7.0\CodigoSplit.deps.json
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\bin\Debug\net7.0\CodigoSplit.runtimeconfig.json
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\bin\Debug\net7.0\CodigoSplit.dll
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\bin\Debug\net7.0\CodigoSplit.pdb
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\obj\Debug\net7.0\CodigoSplit.dll
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\obj\Debug\net7.0\refint\CodigoSplit.dll
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\obj\Debug\net7.0\CodigoSplit.pdb
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\obj\Debug\net7.0\CodigoSplit.genruntimeconfig.cache
+D:\Documentos\Projetos C#\CodigoSplit\CodigoSplit\obj\Debug\net7.0\ref\CodigoSplit.dll
