@@ -1,0 +1,15 @@
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\bin\Debug\net7.0\BomDiaIFeELSE.exe
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\bin\Debug\net7.0\BomDiaIFeELSE.deps.json
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\bin\Debug\net7.0\BomDiaIFeELSE.runtimeconfig.json
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\bin\Debug\net7.0\BomDiaIFeELSE.dll
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\bin\Debug\net7.0\BomDiaIFeELSE.pdb
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\obj\Debug\net7.0\BomDiaIFeELSE.csproj.AssemblyReference.cache
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\obj\Debug\net7.0\BomDiaIFeELSE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\obj\Debug\net7.0\BomDiaIFeELSE.AssemblyInfoInputs.cache
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\obj\Debug\net7.0\BomDiaIFeELSE.AssemblyInfo.cs
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\obj\Debug\net7.0\BomDiaIFeELSE.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\obj\Debug\net7.0\BomDiaIFeELSE.dll
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\obj\Debug\net7.0\refint\BomDiaIFeELSE.dll
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\obj\Debug\net7.0\BomDiaIFeELSE.pdb
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\obj\Debug\net7.0\BomDiaIFeELSE.genruntimeconfig.cache
+D:\Documentos\Projetos C#\BomDiaIFeELSE\BomDiaIFeELSE\obj\Debug\net7.0\ref\BomDiaIFeELSE.dll
